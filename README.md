@@ -21,13 +21,13 @@ I am a Computer Science student interested in technology, with a focus on `web d
     justify-content: space-evenly;
 ">
     <img
-        width="45%"
+        width="50%"
         height="200px"
         src="https://github-readme-stats.vercel.app/api?username=andersonkaiti&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff"
         alt="Anderson Kaiti's Status"
     />
     <img
-        width="45%"
+        width="50%"
         height="200px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkaiti&layout=compact&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff"
         alt="Anderson Kaiti's Most Used Languages"
