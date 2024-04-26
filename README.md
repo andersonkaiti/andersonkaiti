@@ -15,11 +15,7 @@ I am a Computer Science student interested in technology, with a focus on `web d
 
 # GitHub Status
 
-<div style="
-    display: flex;
-    width: 100vw;
-    justify-content: space-evenly;
-">
+<div align="center">
     <img
         width="45%"
         height="200px"
