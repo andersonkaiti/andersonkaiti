@@ -17,7 +17,6 @@ I am a Computer Science student interested in technology, with a focus on `web d
 
 <div style="
     display: flex;
-    gap: 1em;
     width: 100%;
     justify-content: space-evenly;
 ">
