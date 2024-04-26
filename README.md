@@ -1,7 +1,7 @@
 <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fff&section=header&reversal=false"
-    style="margin-bottom: -3em"
+    style="margin-bottom: -5em"
 />
 
 ### Hi there 👋
@@ -16,7 +16,11 @@ I am a Computer Science student interested in technology, with a focus on `web d
 
 # GitHub Status
 
-<div style="display: flex; gap: 1em">
+<div style="
+    display: flex;
+    gap: 1em;
+    flex-wrap: nowrap
+">
     <img
         width="50%"
         height="200px"
