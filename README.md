@@ -1,7 +1,6 @@
 <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fff&section=header&reversal=false"
-    style="margin-bottom: -5em"
 />
 
 ### Hi there 👋
@@ -19,16 +18,16 @@ I am a Computer Science student interested in technology, with a focus on `web d
 <div style="
     display: flex;
     gap: 1em;
-    flex-wrap: nowrap
+    justify-content: space-evenly;
 ">
     <img
-        width="50%"
+        width="45%"
         height="200px"
         src="https://github-readme-stats.vercel.app/api?username=andersonkaiti&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff"
         alt="Anderson Kaiti's Status"
     />
     <img
-        width="50%"
+        width="45%"
         height="200px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkaiti&layout=compact&hide_border=true&bg_color=0d1117&title_color=fff&text_color=fff"
         alt="Anderson Kaiti's Most Used Languages"
