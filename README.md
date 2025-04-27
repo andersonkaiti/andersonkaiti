@@ -11,6 +11,14 @@
   <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=#000000&labelColor=282828" />
 </div>
 
+### Clouds
+
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel5&logoColor=#000000&labelColor=282828" />
+  <img src="https://img.shields.io/badge/azure-000000?style=for-the-badge&logo=azure5&logoColor=#000000&labelColor=282828" />
+  <img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=#000000&labelColor=282828" />
+</div>
+
 ### Bancos de dados e ORMs
 
 <div style="display: flex;">
