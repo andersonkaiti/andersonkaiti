@@ -1,7 +1,11 @@
 ## 👋 Hi! My name is Anderson Kaiti and I'm a Full-Stack Web Developer
 
 🎓 _Estudante de tecnologia focado em desenvolvimento web._  
-Tenho experiência com **HTML5, CSS3 e JavaScript**, e estou me aprofundando em **Node.js, React.js e Next.js**.
+Tenho experiência com **HTML5**, **CSS3**, **JavaScript** e **TypeScript**, além de trabalhar com ferramentas modernas como **Vite**, **Tailwind CSS** e **React Hook Form**.
+
+Atualmente, estou me aprofundando em **Node.js**, **React.js** e **Next.js**, com ênfase em desenvolvimento full-stack, consumo de APIs, gerenciamento de estado, autenticação e deploy de aplicações modernas.
+
+Também exploro tecnologias como **Firebase**, **Expo** e **React Native** para construção de aplicações móveis, sempre buscando escrever código limpo, escalável e modular.
 
 ### 📫 Contato
 
