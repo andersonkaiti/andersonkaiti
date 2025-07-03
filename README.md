@@ -1,58 +1,48 @@
-## 👋 Hi! My name is Anderson Kaiti and I'm a Full-Stack Web Developer
+# 👋 Hey, I'm Anderson Kaiti, a passionate Full-Stack Web Developer!
 
-🎓 _Estudante de tecnologia focado em desenvolvimento web._  
-Tenho experiência com **HTML5**, **CSS3**, **JavaScript** e **TypeScript**, além de trabalhar com ferramentas modernas como **Vite**, **Tailwind CSS** e **React Hook Form**.
+## 👨‍💻 About Me
 
-Atualmente, estou me aprofundando em **Node.js**, **React.js** e **Next.js**, com ênfase em desenvolvimento full-stack, consumo de APIs, gerenciamento de estado, autenticação e deploy de aplicações modernas.
+🎓 _Full-stack web developer passionate about building impactful digital experiences._  
+With a strong foundation in **HTML5**, **CSS3**, **JavaScript**, and **TypeScript**, I leverage modern tools like **Vite**, **Tailwind CSS**, and **React Hook Form** to deliver high-quality, efficient solutions.
 
-Também exploro tecnologias como **Firebase**, **Expo** e **React Native** para construção de aplicações móveis, sempre buscando escrever código limpo, escalável e modular.
+I'm continuously expanding my expertise in the JavaScript ecosystem, working extensively with **Node.js**, **React.js**, and **Next.js**. My focus is on crafting seamless user interfaces backed by robust backend systems, with an emphasis on full-stack development, API design and integration, state management, authentication, and deploying scalable applications.
 
-### 📫 Contato
+Driven by curiosity and a commitment to lifelong learning, I thrive on tackling complex challenges and exploring new technologies. I prioritize writing clean, maintainable, and modular code, and have hands-on experience with **Firebase**, **Expo**, and **React Native** for building innovative mobile applications. My goal is to create solutions that are not only functional but also elegant and future-proof.
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail)](mailto:anderkaiti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-kaiti-67906126a/)
+## 🛠 Tech Stack
 
-### 🧠 Linguagens de programação
+### 💻 Front-end:
 
 ![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/React.js-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss)
 
-### ☁️ Clouds
+### ⚙️ Back-end & Databases:
 
-![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat&logo=vercel)
-![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=azure)
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase&logoColor=DD2C00)
-
-### 🗄️ Bancos de dados e ORMs
-
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=express)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=prisma)
 
-### ⚙️ Ambientes de execução
+### ☁️ Cloud & DevOps:
 
-![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
-
-### 🧩 Frameworks
-
-![React.js](https://img.shields.io/badge/React.js-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
-![React Native](https://img.shields.io/badge/React%20Native-333333?style=flat&logo=react)
-![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=express)
-![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular)
-![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel)
-
-### 🚀 DevOps
-
+![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat&logo=vercel)
+![Azure](https://img.shields.io/badge/Azure-333333?style=flat&logo=azure)
+![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase&logoColor=DD2C00)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
 
-###
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail)](mailto:anderkaiti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-kaiti-67906126a/)
+
+## 🚀 GitHub Stats
 
 | ![GitHub Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkaiti&layout=compact&langs_count=7&theme=dark) | ![GitHub Details](https://github-readme-stats.vercel.app/api?username=andersonkaiti&show_icons=true&theme=dark) |
 | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
