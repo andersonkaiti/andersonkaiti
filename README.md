@@ -44,5 +44,4 @@ Driven by curiosity and a commitment to lifelong learning, I thrive on tackling 
 
 ## 🚀 GitHub Stats
 
-| ![GitHub Commits](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkaiti&layout=compact&langs_count=7&theme=dark) | ![GitHub Details](https://github-readme-stats.vercel.app/api?username=andersonkaiti&show_icons=true&theme=dark) |
-| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+![GitHub Details](https://github-readme-stats.vercel.app/api?username=andersonkaiti&show_icons=true&theme=dark)
