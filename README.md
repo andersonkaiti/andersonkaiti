@@ -45,3 +45,5 @@ Driven by curiosity and a commitment to lifelong learning, I thrive on tackling 
 ## 🚀 GitHub Stats
 
 ![GitHub Details](https://github-readme-stats.vercel.app/api?username=andersonkaiti&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=andersonkaiti&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5)
