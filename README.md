@@ -20,6 +20,8 @@ Driven by curiosity and a commitment to lifelong learning, I thrive on tackling 
 ![React](https://img.shields.io/badge/React.js-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-333333?style=flat&logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-333333?style=flat&logo=reacthookform)
+![Zod](https://img.shields.io/badge/Zod-333333?style=flat&logo=zod)
 
 ### ⚙️ Back-end & Databases:
 
@@ -28,6 +30,7 @@ Driven by curiosity and a commitment to lifelong learning, I thrive on tackling 
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=prisma)
+![Drizzle](https://img.shields.io/badge/Drizzle-333333?style=flat&logo=drizzle)
 
 ### ☁️ Cloud & DevOps:
 
