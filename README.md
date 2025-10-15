@@ -30,6 +30,7 @@ Driven by curiosity and a commitment to lifelong learning, I thrive on tackling 
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=prisma)
+![TypeORM](https://img.shields.io/badge/TypeORM-333333?style=flat&logo=typeorm)
 ![Drizzle](https://img.shields.io/badge/Drizzle-333333?style=flat&logo=drizzle)
 
 ### ☁️ Cloud & DevOps:
