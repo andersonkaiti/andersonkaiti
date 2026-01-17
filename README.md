@@ -22,11 +22,13 @@ Driven by curiosity and a commitment to lifelong learning, I thrive on tackling 
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-333333?style=flat&logo=reacthookform)
 ![Zod](https://img.shields.io/badge/Zod-333333?style=flat&logo=zod)
+![Cypress](https://img.shields.io/badge/Cypress-333333?style=flat&logo=cypress)
 
 ### ⚙️ Back-end & Databases:
 
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-333333?style=flat&logo=express)
+![Vitest](https://img.shields.io/badge/Vitest-333333?style=flat&logo=vitest)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=prisma)
@@ -45,9 +47,3 @@ Driven by curiosity and a commitment to lifelong learning, I thrive on tackling 
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail)](mailto:anderkaiti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-kaiti-67906126a/)
-
-## 🚀 GitHub Stats
-
-![GitHub Details](https://github-readme-stats.vercel.app/api?username=andersonkaiti&show_icons=true&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=andersonkaiti&locale=pt-br&mode=weekly&theme=dark&hide_border=true&border_radius=5)
