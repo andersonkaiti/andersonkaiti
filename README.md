@@ -1,13 +1,40 @@
 # 👋 Hey, I'm Anderson Kaiti, a passionate Full-Stack Web Developer!
 
-## 👨‍💻 About Me
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail)](mailto:anderkaiti@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-kaiti-67906126a/)
 
-🎓 _Full-stack web developer passionate about building impactful digital experiences._  
-With a strong foundation in **HTML5**, **CSS3**, **JavaScript**, and **TypeScript**, I leverage modern tools like **Vite**, **Tailwind CSS**, and **React Hook Form** to deliver high-quality, efficient solutions.
+## 👨🏻‍💻 About Me
 
-I'm continuously expanding my expertise in the JavaScript ecosystem, working extensively with **Node.js**, **React.js**, and **Next.js**. My focus is on crafting seamless user interfaces backed by robust backend systems, with an emphasis on full-stack development, API design and integration, state management, authentication, and deploying scalable applications.
+I'm a full-stack web developer focused on building impactful digital experiences that solve real-world problems. With expertise in modern web technologies like **TypeScript**, **React**, **Next.js**, and **Node.js**, I create scalable, well-architected solutions that prioritize both user experience and code quality.
 
-Driven by curiosity and a commitment to lifelong learning, I thrive on tackling complex challenges and exploring new technologies. I prioritize writing clean, maintainable, and modular code, and have hands-on experience with **Firebase**, **Expo**, and **React Native** for building innovative mobile applications. My goal is to create solutions that are not only functional but also elegant and future-proof.
+My journey into programming began with curiosity and quickly turned into a passion. What started as experimenting with **HTML** and **CSS** evolved into a deep dive into the full JavaScript ecosystem. Today, I work with cutting-edge technologies to build everything from sleek, responsive interfaces to robust backend systems, always with an emphasis on clean architecture and maintainable code.
+
+I'm driven by the challenge of transforming complex problems into elegant solutions. Whether it's designing intuitive user interfaces, architecting efficient APIs, or optimizing database queries, I approach every project with the same commitment: to deliver high-quality software that makes a difference.
+
+## 🎓 Continuous Learner & Builder
+
+I believe that the best developers never stop learning. That's why I'm constantly exploring new technologies, patterns, and best practices in the full-stack ecosystem.
+
+My technical foundation spans across:
+- **Front-end development** with modern frameworks and state management
+- **Back-end architecture** with Node.js, RESTful APIs, and database design  
+- **Full-stack integration** bringing together seamless user experiences with powerful server-side logic
+- **DevOps practices** including containerization, cloud deployment, and CI/CD pipelines
+
+I'm particularly passionate about **TypeScript** and its role in building type-safe, scalable applications. I also have hands-on experience with **React Native** and mobile development, extending my full-stack capabilities to cross-platform solutions.
+
+## 📚 What Will You Find Here?
+
+This GitHub profile is more than just a code repository—it's a showcase of my journey as a developer and my commitment to continuous improvement. Whether you're a fellow developer, recruiter, or someone learning to code, here's what you'll discover:
+
+- **Real-world projects** built with modern technologies and best practices
+- **Clean, maintainable code** following SOLID principles and design patterns
+- **Full-stack applications** demonstrating end-to-end development skills
+- **Experiments and learning projects** exploring new technologies and techniques
+
+I focus on writing code that is not only functional but also elegant, modular, and future-proof. From authentication systems to real-time features, from responsive UIs to scalable APIs—each project reflects my dedication to quality software development.
+
+---
 
 ## 🛠 Tech Stack
 
@@ -42,8 +69,3 @@ Driven by curiosity and a commitment to lifelong learning, I thrive on tackling 
 ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase&logoColor=DD2C00)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
-
-## 📫 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail)](mailto:anderkaiti@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-kaiti-67906126a/)
