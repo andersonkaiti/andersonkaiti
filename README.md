@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Anderson Kaiti, a passionate Full-Stack Web Developer!
+# 👋 Hey, I'm Anderson Kaiti, a Full-Stack Web Developer
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail)](mailto:anderkaiti@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/anderson-kaiti-67906126a/)
@@ -6,34 +6,7 @@
 
 ## 👨🏻‍💻 About Me
 
-I'm a full-stack web developer focused on building impactful digital experiences that solve real-world problems. With expertise in modern web technologies like **TypeScript**, **React**, **Next.js**, and **Node.js**, I create scalable, well-architected solutions that prioritize both user experience and code quality.
-
-My journey into programming began with curiosity and quickly turned into a passion. What started as experimenting with **HTML** and **CSS** evolved into a deep dive into the full JavaScript ecosystem. Today, I work with cutting-edge technologies to build everything from sleek, responsive interfaces to robust backend systems, always with an emphasis on clean architecture and maintainable code.
-
-I'm driven by the challenge of transforming complex problems into elegant solutions. Whether it's designing intuitive user interfaces, architecting efficient APIs, or optimizing database queries, I approach every project with the same commitment: to deliver high-quality software that makes a difference.
-
-## 🎓 Continuous Learner & Builder
-
-I believe that the best developers never stop learning. That's why I'm constantly exploring new technologies, patterns, and best practices in the full-stack ecosystem.
-
-My technical foundation spans across:
-- **Front-end development** with modern frameworks and state management
-- **Back-end architecture** with Node.js, RESTful APIs, and database design  
-- **Full-stack integration** bringing together seamless user experiences with powerful server-side logic
-- **DevOps practices** including containerization, cloud deployment, and CI/CD pipelines
-
-I'm particularly passionate about **TypeScript** and its role in building type-safe, scalable applications. I also have hands-on experience with **React Native** and mobile development, extending my full-stack capabilities to cross-platform solutions.
-
-## 📚 What Will You Find Here?
-
-This GitHub profile is more than just a code repository—it's a showcase of my journey as a developer and my commitment to continuous improvement. Whether you're a fellow developer, recruiter, or someone learning to code, here's what you'll discover:
-
-- **Real-world projects** built with modern technologies and best practices
-- **Clean, maintainable code** following SOLID principles and design patterns
-- **Full-stack applications** demonstrating end-to-end development skills
-- **Experiments and learning projects** exploring new technologies and techniques
-
-I focus on writing code that is not only functional but also elegant, modular, and future-proof. From authentication systems to real-time features, from responsive UIs to scalable APIs—each project reflects my dedication to quality software development.
+Full-stack developer building scalable web applications with **TypeScript**, **React**, **Next.js**, and **Node.js**. Started with **HTML** and **CSS** out of curiosity — now I build everything from authentication systems and real-time APIs to responsive UIs, always with clean architecture and maintainable code as the baseline.
 
 ---
 
@@ -47,8 +20,6 @@ I focus on writing code that is not only functional but also elegant, modular, a
 | [**React Auth Flow**](https://github.com/andersonkaiti/react-auth-flow) | Complete auth flow with access/refresh tokens and Axios interceptors | React 19 · TypeScript · Axios |
 | [**DevStore**](https://github.com/andersonkaiti/devstore) | E-commerce store built with the Next.js App Router | Next.js · TypeScript · TailwindCSS |
 | [**Bewear Bootcamp**](https://github.com/andersonkaiti/bewear-bootcamp) | E-commerce SaaS built during a bootcamp | Next.js · Drizzle ORM |
-
-> 💡 Tip: these are the repos I recommend pinning to my profile.
 
 ## 🌱 Currently Exploring
 
@@ -88,15 +59,6 @@ I focus on writing code that is not only functional but also elegant, modular, a
 ![TypeORM](https://img.shields.io/badge/TypeORM-333333?style=flat&logo=typeorm)
 ![Drizzle](https://img.shields.io/badge/Drizzle-333333?style=flat&logo=drizzle)
 
-### ⚡ Serverless & AWS:
-
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-ED7100?style=flat&logo=amazonwebservices&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API%20Gateway-E7157B?style=flat&logo=amazonwebservices&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazonwebservices&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazonwebservices&logoColor=white)
-![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat&logo=amazonwebservices&logoColor=white)
-
 ### ☁️ Cloud & DevOps:
 
 ![Vercel](https://img.shields.io/badge/Vercel-333333?style=flat&logo=vercel)
@@ -104,3 +66,9 @@ I focus on writing code that is not only functional but also elegant, modular, a
 ![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase&logoColor=DD2C00)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-ED7100?style=flat&logo=amazonwebservices&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-E7157B?style=flat&logo=amazonwebservices&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazonwebservices&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazonwebservices&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-DD344C?style=flat&logo=amazonwebservices&logoColor=white)
